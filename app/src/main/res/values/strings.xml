@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Resep Masakan</string>
+
+    <string-array name="data_name">
+        <item>Nasi Goreng Spesial</item>
+        <item>Rendang Daging</item>
+        <item>Soto Ayam</item>
+        <item>Gado-gado</item>
+        <item>Sate Ayam</item>
+        <item>Mie Goreng</item>
+        <item>Ayam Goreng</item>
+        <item>Sayur Asem</item>
+        <item>Opor Ayam</item>
+        <item>Sambal Goreng Ati</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Nasi goreng spesial dengan telur, ayam, dan udang</item>
+        <item>Daging sapi yang dimasak dengan rempah-rempah khas Padang</item>
+        <item>Sup ayam kuning khas Indonesia dengan mie dan telur</item>
+        <item>Sayuran segar dengan bumbu kacang</item>
+        <item>Sate ayam dengan bumbu kacang khas Indonesia</item>
+        <item>Mie goreng dengan telur dan sayuran</item>
+        <item>Ayam goreng renyah dengan bumbu kuning</item>
+        <item>Sayur asem dengan berbagai sayuran segar</item>
+        <item>Ayam dalam kuah santan dengan bumbu kuning</item>
+        <item>Hati ayam dengan sambal dan petai</item>
+    </string-array>
+
+    <string-array name="data_ingredients">
+        <item>- 2 piring nasi putih\n- 2 butir telur\n- 100g daging ayam potong dadu\n- 100g udang kupas\n- 2 siung bawang putih\n- 3 siung bawang merah\n- Kecap manis\n- Garam dan merica</item>
+        <item>- 1kg daging sapi\n- 2 butir kelapa parut\n- 15 cabai merah\n- 10 cabai rawit\n- Lengkuas\n- Serai\n- Daun jeruk\n- Bumbu rendang</item>
+        <item>- 500g ayam\n- Mie soun\n- Kol\n- Tauge\n- Daun bawang\n- Seledri\n- Bumbu kuning\n- Bawang goreng</item>
+        <item>- Kol\n- Tauge\n- Kentang\n- Telur rebus\n- Tahu\n- Tempe\n- Bumbu kacang\n- Kecap manis</item>
+        <item>- 500g daging ayam\n- Bumbu kacang\n- Kecap manis\n- Bawang merah\n- Bawang putih\n- Cabai rawit\n- Jeruk nipis</item>
+        <item>- Mie telur\n- Sawi hijau\n- Telur\n- Bakso\n- Bawang goreng\n- Kecap manis\n- Garam dan merica</item>
+        <item>- 1 ekor ayam\n- Bumbu kuning\n- Lengkuas\n- Serai\n- Daun salam\n- Garam\n- Minyak goreng</item>
+        <item>- Kacang panjang\n- Labu siam\n- Jagung muda\n- Melinjo\n- Asam jawa\n- Bumbu sayur asem</item>
+        <item>- 1 ekor ayam\n- Santan kelapa\n- Bumbu kuning\n- Daun salam\n- Serai\n- Lengkuas\n- Garam</item>
+        <item>- Hati ayam\n- Petai\n- Cabai merah\n- Bawang merah\n- Bawang putih\n- Gula merah\n- Garam</item>
+    </string-array>
+
+    <string-array name="data_instructions">
+        <item>1. Tumis bawang putih dan merah hingga harum\n2. Masukkan telur, buat orak-arik\n3. Tambahkan ayam dan udang\n4. Masukkan nasi putih\n5. Tambahkan kecap, garam, dan merica\n6. Aduk rata hingga matang</item>
+        <item>1. Haluskan semua bumbu\n2. Tumis bumbu dengan serai dan daun jeruk\n3. Masukkan daging sapi\n4. Tambahkan santan\n5. Masak hingga mengering\n6. Aduk sesekali agar tidak gosong</item>
+        <item>1. Rebus ayam dengan bumbu kuning\n2. Siapkan mie, tauge, dan kol\n3. Susun dalam mangkok\n4. Siram dengan kuah\n5. Taburi daun bawang dan bawang goreng</item>
+        <item>1. Rebus semua sayuran\n2. Goreng tahu dan tempe\n3. Siapkan bumbu kacang\n4. Tata sayuran, tahu, tempe\n5. Siram dengan bumbu kacang\n6. Tambahkan kecap</item>
+        <item>1. Potong daging ayam\n2. Tusuk dengan tusukan sate\n3. Bakar sambil olesi bumbu\n4. Siapkan bumbu kacang\n5. Sajikan dengan lontong</item>
+        <item>1. Rebus mie hingga matang\n2. Tumis bumbu hingga harum\n3. Masukkan sayuran\n4. Tambahkan mie\n5. Beri kecap dan bumbu\n6. Aduk rata</item>
+        <item>1. Ungkep ayam dengan bumbu\n2. Tunggu hingga meresap\n3. Goreng hingga keemasan\n4. Sajikan dengan sambal</item>
+        <item>1. Didihkan air\n2. Masukkan bumbu\n3. Tambahkan sayuran\n4. Beri asam jawa\n5. Masak hingga matang</item>
+        <item>1. Rebus ayam dengan bumbu\n2. Tambahkan santan\n3. Masak hingga mendidih\n4. Aduk agar santan tidak pecah\n5. Sajikan</item>
+        <item>1. Goreng hati ayam\n2. Tumis bumbu hingga harum\n3. Masukkan petai\n4. Tambahkan hati ayam\n5. Masak hingga matang</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/soto</item>
+        <item>@drawable/gado_gado</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/mie_goreng</item>
+        <item>@drawable/ayam_goreng</item>
+        <item>@drawable/sayur_asem</item>
+        <item>@drawable/opor</item>
+        <item>@drawable/sambal_goreng</item>
+    </integer-array>
+</resources>
